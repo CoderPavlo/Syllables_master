@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KSjRXH6NKQJK2S5Vi6LHBewBHFC4yYvyzUeM3QpSaql+nwXOtkJ2zRP/rKJXEvoJ5pVt5+kqFj8OfqX1gwW3Fw==",
+  "success": true,
+  "projectFilePath": "D:\\PhoneticProcessor\\Syllables_master\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavlo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

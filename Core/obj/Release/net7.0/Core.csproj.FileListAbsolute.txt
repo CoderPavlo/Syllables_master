@@ -1,0 +1,68 @@
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Core\bin\Release\net7.0\Core.deps.json
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Core\bin\Release\net7.0\Core.dll
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Core\bin\Release\net7.0\Core.pdb
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\Core.sourcelink.json
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\Core.dll
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\refint\Core.dll
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\Core.pdb
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\ref\Core.dll
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Core\bin\Release\net7.0\Core.deps.json
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Core\bin\Release\net7.0\Core.dll
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Core\bin\Release\net7.0\Core.pdb
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Core\obj\Release\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Core\obj\Release\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Core\obj\Release\net7.0\Core.sourcelink.json
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Core\obj\Release\net7.0\Core.dll
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Core\obj\Release\net7.0\refint\Core.dll
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Core\obj\Release\net7.0\Core.pdb
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Core\obj\Release\net7.0\ref\Core.dll
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Core\bin\Release\net7.0\Core.deps.json
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Core\bin\Release\net7.0\Core.dll
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Core\bin\Release\net7.0\Core.pdb
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\Core.csproj.AssemblyReference.cache
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\Core.dll
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\refint\Core.dll
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\Core.pdb
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Core\obj\Release\net7.0\ref\Core.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Core\bin\Release\net7.0\Core.deps.json
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Core\bin\Release\net7.0\Core.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Core\bin\Release\net7.0\Core.pdb
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Core\obj\Release\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Core\obj\Release\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Core\obj\Release\net7.0\Core.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Core\obj\Release\net7.0\refint\Core.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Core\obj\Release\net7.0\Core.pdb
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Core\obj\Release\net7.0\ref\Core.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Core\bin\Release\net7.0\Core.deps.json
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Core\bin\Release\net7.0\Core.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Core\bin\Release\net7.0\Core.pdb
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Core\obj\Release\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Core\obj\Release\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Core\obj\Release\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Core\obj\Release\net7.0\Core.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Core\obj\Release\net7.0\refint\Core.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Core\obj\Release\net7.0\Core.pdb
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Core\obj\Release\net7.0\ref\Core.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Core\bin\Release\net7.0\Core.deps.json
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Core\bin\Release\net7.0\Core.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Core\bin\Release\net7.0\Core.pdb
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Core\obj\Release\net7.0\Core.csproj.AssemblyReference.cache
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Core\obj\Release\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Core\obj\Release\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Core\obj\Release\net7.0\Core.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Core\obj\Release\net7.0\refint\Core.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Core\obj\Release\net7.0\Core.pdb
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Core\obj\Release\net7.0\ref\Core.dll
+D:\PhoneticProcessor\Syllables_master\Core\bin\Release\net7.0\Core.deps.json
+D:\PhoneticProcessor\Syllables_master\Core\bin\Release\net7.0\Core.dll
+D:\PhoneticProcessor\Syllables_master\Core\bin\Release\net7.0\Core.pdb
+D:\PhoneticProcessor\Syllables_master\Core\obj\Release\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhoneticProcessor\Syllables_master\Core\obj\Release\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\PhoneticProcessor\Syllables_master\Core\obj\Release\net7.0\Core.dll
+D:\PhoneticProcessor\Syllables_master\Core\obj\Release\net7.0\refint\Core.dll
+D:\PhoneticProcessor\Syllables_master\Core\obj\Release\net7.0\Core.pdb
+D:\PhoneticProcessor\Syllables_master\Core\obj\Release\net7.0\ref\Core.dll

@@ -1,0 +1,261 @@
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.exe
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.config
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.manifest
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.application
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.deps.json
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.runtimeconfig.json
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.pdb
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.dll
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.pdb
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.AssemblyReference.cache
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.CharactersBase.resources
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Form1.resources
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.MainView.resources
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Properties.Resources.resources
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.SettingsForm.resources
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TestView.resources
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.GenerateResource.cache
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.GeneratedMSBuildEditorConfig.editorconfig
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CoreCompileInputs.cache
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.sourcelink.json
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TrustInfo.xml
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll.manifest
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.application
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CopyComplete
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\refint\Sklady.dll
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.pdb
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.genruntimeconfig.cache
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8to.NET6\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\ref\Sklady.dll
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.exe
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.config
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.manifest
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.application
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.deps.json
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.runtimeconfig.json
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.pdb
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.dll
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.pdb
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.AssemblyReference.cache
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.CharactersBase.resources
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Form1.resources
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.MainView.resources
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Properties.Resources.resources
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.SettingsForm.resources
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TestView.resources
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.GenerateResource.cache
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.GeneratedMSBuildEditorConfig.editorconfig
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CoreCompileInputs.cache
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.sourcelink.json
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TrustInfo.xml
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll.manifest
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.application
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CopyComplete
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\refint\Sklady.dll
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.pdb
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.genruntimeconfig.cache
+C:\#Study\ОПМ\SyllablesProjectGit\Syllables_master\Sklady\obj\Release\net7.0-windows\ref\Sklady.dll
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.exe
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.config
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.manifest
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.application
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.deps.json
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.runtimeconfig.json
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.pdb
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.dll
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.pdb
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.AssemblyReference.cache
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.CharactersBase.resources
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Form1.resources
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.MainView.resources
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Properties.Resources.resources
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.SettingsForm.resources
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TestView.resources
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.GenerateResource.cache
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CoreCompileInputs.cache
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TrustInfo.xml
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll.manifest
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.application
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CopyComplete
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\refint\Sklady.dll
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.pdb
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.genruntimeconfig.cache
+D:\Laboratories\Дипломна\SyllablesProgram\SyllablesProject\Syllables_master\Sklady\obj\Release\net7.0-windows\ref\Sklady.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.exe
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.config
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.manifest
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.application
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.deps.json
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.runtimeconfig.json
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.pdb
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.Interfaces.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.System.Drawing.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.pdb
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.AssemblyReference.cache
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.CharactersBase.resources
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Form1.resources
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.MainView.resources
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Properties.Resources.resources
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.SettingsForm.resources
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TestView.resources
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.GenerateResource.cache
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.GeneratedMSBuildEditorConfig.editorconfig
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CoreCompileInputs.cache
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TrustInfo.xml
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll.manifest
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.application
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CopyComplete
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\refint\Sklady.dll
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.pdb
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.genruntimeconfig.cache
+D:\Універ\8 семестр\лінгвістика\SyllablesProject-master\Syllables_master\Sklady\obj\Release\net7.0-windows\ref\Sklady.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.exe
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.config
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.manifest
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.application
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.deps.json
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.runtimeconfig.json
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.pdb
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.pdb
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.AssemblyReference.cache
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.CharactersBase.resources
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Form1.resources
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.MainView.resources
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Properties.Resources.resources
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.SettingsForm.resources
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TestView.resources
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.GenerateResource.cache
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CoreCompileInputs.cache
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TrustInfo.xml
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll.manifest
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.application
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CopyComplete
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\refint\Sklady.dll
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.pdb
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.genruntimeconfig.cache
+C:\Users\Legion\OneDrive\Desktop\newProg\Syllables_master\Sklady\obj\Release\net7.0-windows\ref\Sklady.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.exe
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.config
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.manifest
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.application
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.deps.json
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.runtimeconfig.json
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.pdb
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.Interfaces.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.System.Drawing.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.pdb
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.AssemblyReference.cache
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.CharactersBase.resources
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Form1.resources
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.MainView.resources
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Properties.Resources.resources
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.SettingsForm.resources
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TestView.resources
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.GenerateResource.cache
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CoreCompileInputs.cache
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TrustInfo.xml
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll.manifest
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.application
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CopyComplete
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\refint\Sklady.dll
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.pdb
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.genruntimeconfig.cache
+D:\Laboratories\Дипломна\Syllables-MASTER\Syllables_master\Sklady\obj\Release\net7.0-windows\ref\Sklady.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.exe
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.config
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll.manifest
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.application
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.deps.json
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.runtimeconfig.json
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Sklady.pdb
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.Interfaces.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\EPPlus.System.Drawing.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\bin\Release\net7.0-windows\Core.pdb
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.AssemblyReference.cache
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.CharactersBase.resources
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Form1.resources
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.MainView.resources
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.Properties.Resources.resources
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.SettingsForm.resources
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TestView.resources
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.GenerateResource.cache
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CoreCompileInputs.cache
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.TrustInfo.xml
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll.manifest
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.application
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.csproj.CopyComplete
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\refint\Sklady.dll
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.pdb
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\Sklady.genruntimeconfig.cache
+D:\PhoneticProcessor\Syllables_master\Sklady\obj\Release\net7.0-windows\ref\Sklady.dll

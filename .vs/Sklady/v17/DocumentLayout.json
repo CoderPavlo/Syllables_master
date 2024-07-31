@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC41D66-49B8-4CCB-9739-F5CE68FC3CC5}|Sklady\\Sklady.csproj|c:\\\u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u043A\u0443\u0448\u043D\u0456\u0440\\syllables_master\\sklady\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC41D66-49B8-4CCB-9739-F5CE68FC3CC5}|Sklady\\Sklady.csproj|solutionrelative:sklady\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC41D66-49B8-4CCB-9739-F5CE68FC3CC5}|Sklady\\Sklady.csproj|C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\sklady\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC41D66-49B8-4CCB-9739-F5CE68FC3CC5}|Sklady\\Sklady.csproj|solutionrelative:sklady\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\core\\helpers\\models\\fileprocessingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|solutionrelative:core\\helpers\\models\\fileprocessingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\core\\export\\exportresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|solutionrelative:core\\export\\exportresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC41D66-49B8-4CCB-9739-F5CE68FC3CC5}|Sklady\\Sklady.csproj|C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\sklady\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CC41D66-49B8-4CCB-9739-F5CE68FC3CC5}|Sklady\\Sklady.csproj|solutionrelative:sklady\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC41D66-49B8-4CCB-9739-F5CE68FC3CC5}|Sklady\\Sklady.csproj|C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\sklady\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC41D66-49B8-4CCB-9739-F5CE68FC3CC5}|Sklady\\Sklady.csproj|solutionrelative:sklady\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC41D66-49B8-4CCB-9739-F5CE68FC3CC5}|Sklady\\Sklady.csproj|C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\sklady\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CC41D66-49B8-4CCB-9739-F5CE68FC3CC5}|Sklady\\Sklady.csproj|solutionrelative:sklady\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\core\\textprocessors\\wordanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|solutionrelative:core\\textprocessors\\wordanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\core\\textprocessors\\characterspowertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|solutionrelative:core\\textprocessors\\characterspowertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\core\\textprocessors\\phoneticprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|solutionrelative:core\\textprocessors\\phoneticprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\core\\textprocessors\\ukrainephoneticprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFC008E-C860-4277-AF95-FE6F8D1CF27D}|Core\\Core.csproj|solutionrelative:core\\textprocessors\\ukrainephoneticprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportResults.cs",
+              "DocumentMoniker": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\Export\\ExportResults.cs",
+              "RelativeDocumentMoniker": "Core\\Export\\ExportResults.cs",
+              "ToolTip": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\Export\\ExportResults.cs",
+              "RelativeToolTip": "Core\\Export\\ExportResults.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:02:43.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileProcessingResult.cs",
+              "DocumentMoniker": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\Helpers\\Models\\FileProcessingResult.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Models\\FileProcessingResult.cs",
+              "ToolTip": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\Helpers\\Models\\FileProcessingResult.cs",
+              "RelativeToolTip": "Core\\Helpers\\Models\\FileProcessingResult.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAowJsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:34:10.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\Form1.cs",
+              "RelativeDocumentMoniker": "Sklady\\Form1.cs",
+              "ToolTip": "C:\\Users\\mrale\\Downloads\\Telegram Desktop\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\mrale\\Downloads\\Telegram Desktop\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:18:31.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Sklady\\Form1.Designer.cs",
+              "ToolTip": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\Form1.Designer.cs",
+              "RelativeToolTip": "Sklady\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:56:15.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\MainView.cs",
+              "RelativeDocumentMoniker": "Sklady\\MainView.cs",
+              "ToolTip": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\MainView.cs",
+              "RelativeToolTip": "Sklady\\MainView.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:53:14.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhoneticProcessor.cs",
+              "DocumentMoniker": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\TextProcessors\\PhoneticProcessor.cs",
+              "RelativeDocumentMoniker": "Core\\TextProcessors\\PhoneticProcessor.cs",
+              "ToolTip": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\TextProcessors\\PhoneticProcessor.cs",
+              "RelativeToolTip": "Core\\TextProcessors\\PhoneticProcessor.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:13:32.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UkrainePhoneticProcessor.cs",
+              "DocumentMoniker": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\TextProcessors\\UkrainePhoneticProcessor.cs",
+              "RelativeDocumentMoniker": "Core\\TextProcessors\\UkrainePhoneticProcessor.cs",
+              "ToolTip": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\TextProcessors\\UkrainePhoneticProcessor.cs",
+              "RelativeToolTip": "Core\\TextProcessors\\UkrainePhoneticProcessor.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:13:20.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\Form1.cs",
+              "RelativeDocumentMoniker": "Sklady\\Form1.cs",
+              "ToolTip": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\Form1.cs",
+              "RelativeToolTip": "Sklady\\Form1.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAA5wGYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:07:06.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordAnalyzer.cs",
+              "DocumentMoniker": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\TextProcessors\\WordAnalyzer.cs",
+              "RelativeDocumentMoniker": "Core\\TextProcessors\\WordAnalyzer.cs",
+              "ToolTip": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\TextProcessors\\WordAnalyzer.cs",
+              "RelativeToolTip": "Core\\TextProcessors\\WordAnalyzer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:06:44.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CharactersPowerTable.cs",
+              "DocumentMoniker": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\TextProcessors\\CharactersPowerTable.cs",
+              "RelativeDocumentMoniker": "Core\\TextProcessors\\CharactersPowerTable.cs",
+              "ToolTip": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Core\\TextProcessors\\CharactersPowerTable.cs",
+              "RelativeToolTip": "Core\\TextProcessors\\CharactersPowerTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:13:45.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainView.cs [Design]",
+              "DocumentMoniker": "C:\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\MainView.cs",
+              "RelativeDocumentMoniker": "Sklady\\MainView.cs",
+              "ToolTip": "C:\\Users\\mrale\\Downloads\\Telegram Desktop\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\MainView.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\mrale\\Downloads\\Telegram Desktop\\\u0406\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u041A\u0443\u0448\u043D\u0456\u0440\\Syllables_master\\Sklady\\MainView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:52:58.656Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

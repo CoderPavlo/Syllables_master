@@ -1,0 +1,16 @@
+C:\Users\BOSS\Desktop\01212Гук С\01Гук С\+Syllables-master модифікований\Syllables-master\Core\bin\Release\Core.dll
+C:\Users\BOSS\Desktop\01212Гук С\01Гук С\+Syllables-master модифікований\Syllables-master\Core\bin\Release\Core.pdb
+C:\Users\BOSS\Desktop\01212Гук С\01Гук С\+Syllables-master модифікований\Syllables-master\Core\obj\Release\Core.dll
+C:\Users\BOSS\Desktop\01212Гук С\01Гук С\+Syllables-master модифікований\Syllables-master\Core\obj\Release\Core.pdb
+C:\#Study\ОПМ\SyllablesProject\Old\SyllablesProject\Syllables_master\Core\bin\Release\Core.dll
+C:\#Study\ОПМ\SyllablesProject\Old\SyllablesProject\Syllables_master\Core\bin\Release\Core.pdb
+C:\#Study\ОПМ\SyllablesProject\Old\SyllablesProject\Syllables_master\Core\obj\Release\Core.csproj.AssemblyReference.cache
+C:\#Study\ОПМ\SyllablesProject\Old\SyllablesProject\Syllables_master\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\#Study\ОПМ\SyllablesProject\Old\SyllablesProject\Syllables_master\Core\obj\Release\Core.dll
+C:\#Study\ОПМ\SyllablesProject\Old\SyllablesProject\Syllables_master\Core\obj\Release\Core.pdb
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8\SyllablesProject\Syllables_master\Core\bin\Release\Core.dll
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8\SyllablesProject\Syllables_master\Core\bin\Release\Core.pdb
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8\SyllablesProject\Syllables_master\Core\obj\Release\Core.csproj.AssemblyReference.cache
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8\SyllablesProject\Syllables_master\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8\SyllablesProject\Syllables_master\Core\obj\Release\Core.dll
+C:\#Study\ОПМ\SyllablesProject\Old - From.NET8\SyllablesProject\Syllables_master\Core\obj\Release\Core.pdb
